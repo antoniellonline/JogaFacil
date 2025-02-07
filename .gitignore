@@ -52,7 +52,6 @@ coverage.xml
 cover/
 
 
-*.apk
 # Translations
 *.mo
 *.pot
@@ -163,3 +162,5 @@ cython_debug/
 
 # Flet
 storage/
+
+apk/
